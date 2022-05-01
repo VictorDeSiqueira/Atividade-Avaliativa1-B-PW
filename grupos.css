@@ -1,0 +1,256 @@
+#header-wrapper {
+    background-image: -moz-linear-gradient(top, #3c1422, #3c1422);
+    background-image: -webkit-linear-gradient(top, #3c1422, #3c1422);
+    background-image: -ms-linear-gradient(top, #3c1422, #3c1422);
+    background-image: linear-gradient(top, #3c1422, #3c1422);
+    background-color: #3c1422;
+}
+
+#header {
+    background-image: -moz-linear-gradient(top, #3c1422, #3c1422);
+    background-image: -webkit-linear-gradient(top, #3c1422, #3c1422);
+    background-image: -ms-linear-gradient(top, #3c1422, #3c1422);
+    background-image: linear-gradient(top, #3c1422, #3c1422);
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    -ms-box-sizing: content-box;
+    box-sizing: content-box;
+    position: relative;
+
+    border-radius: 10px;
+    border: solid 1px #3c1422;
+    box-shadow: inset 0px 0px 0px 1px #3c1422, 0px 1px 4px 0px rgba(255, 255, 255, 0.1);
+    background-color: #3c1422;
+    height: 86px;
+}
+
+    #header h1 {
+        position: absolute;
+        left: 40px;
+        top: 0;
+        color: #3c1422;
+        font-size: 2.4em;
+        letter-spacing: -2px;
+        line-height: 86px;
+    }
+
+    #header h2{
+        text-align: center;
+        font-size: 50px;
+        margin-top: 10px;
+    }
+
+    #header nav {
+        position: absolute;
+        right: 40px;
+        top: 1px;
+        line-height: 84px;
+        text-transform: unset;
+        font-size: 1.3em;
+        letter-spacing: -1px;
+    }
+
+        #header nav a {
+            display: inline-block;
+            text-decoration: none;
+            color: #fff;
+            padding: 0 25px 0 25px;
+            outline: 0;
+        }
+ 
+    
+        
+    body{ background-image: url(fundo.png);
+        font-family: 'Rakkas', cursive;
+        
+        }
+
+    h3{
+        text-align: center;
+        font-size: 50px;
+        margin-top: 5px;
+        color: white;
+    }
+
+    img{
+        margin-bottom: -5px;
+
+    }
+    div section {
+        margin-block-start: 10px;
+        
+           
+    }
+    section#grupo-a table{
+        display: inline-block;
+        color: #791337;
+        background-color: rgb(232, 233, 206); border-color: rgb(232, 233, 206); border-radius: 5%; border-start-end-radius: 15px; border-end-start-radius: 15px;
+        width: 240px;
+        height: 180px; 
+        vertical-align: top;
+        margin-inline-start: 10px;
+        
+            
+    }
+    section#grupo-a table th{
+        border-color: #c9bd51; border-top: 0px; border-left: 0px; border-right: 0px; 
+        border-bottom-width: 5px; border-bottom-left-radius: 50px; border-bottom-right-radius: 10px;
+    } 
+    section#grupo-a table td{
+        width: 240px;
+        border: 0px;
+        text-align: center;
+    }
+
+
+    section#grupo-b table{
+        display: inline-block;
+        color: #791337;
+        background-color: rgb(232, 233, 206); border-color: rgb(232, 233, 206); border-radius: 5%; border-start-end-radius: 15px; border-end-start-radius: 15px;
+        width: 240px;
+        height: 180px; 
+        vertical-align: top;
+        margin-inline-start: 10px;
+        
+            
+    }
+    section#grupo-b table th{
+        border-color: #c9bd51; border-top: 0px; border-left: 0px; border-right: 0px; 
+        border-bottom-width: 5px; border-bottom-left-radius: 50px; border-bottom-right-radius: 10px;
+    } 
+    section#grupo-b table td{
+        width: 240px;
+        border: 0px;
+        text-align: center;
+    }
+
+
+    section#grupo-c table{
+        display: inline-block;
+        color: #791337;
+        background-color: rgb(232, 233, 206); border-color: rgb(232, 233, 206); border-radius: 5%; border-start-end-radius: 15px; border-end-start-radius: 15px;
+        width: 240px;
+        height: 180px;  
+        vertical-align: top;
+        margin-inline-start: 10px;
+        
+            
+    }
+    section#grupo-c table th{
+        border-color: #c9bd51; border-top: 0px; border-left: 0px; border-right: 0px; 
+        border-bottom-width: 5px; border-bottom-left-radius: 50px; border-bottom-right-radius: 10px;
+    } 
+    section#grupo-c table td{
+        width: 240px;
+        border: 0px;
+        text-align: center;
+    }
+
+
+    section#grupo-d table{
+        display: inline-block;
+        color: #791337;
+        background-color: rgb(232, 233, 206); border-color: rgb(232, 233, 206); border-radius: 5%; border-start-end-radius: 15px; border-end-start-radius: 15px;
+        width: 240px;
+        height: 180px; 
+        vertical-align: top;
+        margin-inline-start: 10px;
+       
+            
+    }
+    section#grupo-d table th{
+        border-color: #c9bd51; border-top: 0px; border-left: 0px; border-right: 0px; 
+        border-bottom-width: 5px; border-bottom-left-radius: 50px; border-bottom-right-radius: 10px;
+    } 
+    section#grupo-d table td{
+        width: 240px;
+        border: 0px;
+        text-align: center;
+    }
+
+
+    section#grupo-e table{
+        display: inline-block;
+        color: #791337;
+        background-color: rgb(232, 233, 206); border-color: rgb(232, 233, 206); border-radius: 5%; border-start-end-radius: 15px; border-end-start-radius: 15px;
+        width: 240px;
+        height: 180px;  
+        vertical-align: top;
+        margin-inline-start: 10px;
+            
+    }
+    section#grupo-e table th{
+        border-color: #c9bd51; border-top: 0px; border-left: 0px; border-right: 0px; 
+        border-bottom-width: 5px; border-bottom-left-radius: 50px; border-bottom-right-radius: 10px;
+    } 
+    section#grupo-e table td{
+        width: 240px;
+        border: 0px;
+        text-align: center;
+    }
+
+
+    section#grupo-f table{
+        display: inline-block;
+        color: #791337;
+        background-color: rgb(232, 233, 206); border-color: rgb(232, 233, 206); border-radius: 5%; border-start-end-radius: 15px; border-end-start-radius: 15px;
+        width: 240px;
+        height: 180px;
+        vertical-align: top;
+        margin-inline-start: 10px;
+           
+    }
+    section#grupo-f table th{
+        border-color: #c9bd51; border-top: 0px; border-left: 0px; border-right: 0px; 
+        border-bottom-width: 5px; border-bottom-left-radius: 50px; border-bottom-right-radius: 10px;
+    } 
+    section#grupo-f table td{
+        width: 240px;
+        border: 0px;
+        text-align: center;
+    }
+
+
+    section#grupo-g table{
+        display: inline-block;
+        color: #791337;
+        background-color: rgb(232, 233, 206); border-color: rgb(232, 233, 206); border-radius: 5%; border-start-end-radius: 15px; border-end-start-radius: 15px;
+        width: 240px;
+        height: 180px; 
+        vertical-align: top;
+        margin-inline-start: 10px;
+        
+            
+    }
+    section#grupo-g table th{
+        border-color: #c9bd51; border-top: 0px; border-left: 0px; border-right: 0px; 
+        border-bottom-width: 5px; border-bottom-left-radius: 50px; border-bottom-right-radius: 10px;
+    } 
+    section#grupo-g table td{
+        width: 240px;
+        border: 0px;
+        text-align: center;
+    }
+
+
+    section#grupo-h table{
+        display: inline-block;
+        color: #791337;
+        background-color: rgb(232, 233, 206); border-color: rgb(232, 233, 206); border-radius: 5%; border-start-end-radius: 15px; border-end-start-radius: 15px;
+        width: 240px;
+        height: 180px;
+        vertical-align: top;
+        margin-inline-start: 10px;
+       
+            
+    }
+    section#grupo-h table th{
+        border-color: #c9bd51; border-top: 0px; border-left: 0px; border-right: 0px; 
+        border-bottom-width: 5px; border-bottom-left-radius: 50px; border-bottom-right-radius: 10px;
+    } 
+    section#grupo-h table td{
+        width: 240px;
+        border: 0px;
+        text-align: center;
+    }
+    
